@@ -24,7 +24,8 @@ body{
     
 }
 .doggye{
-    padding-top: 3%;
+    padding-top: 100px;
+    padding-left: 180px;
     transform: rotate(20deg);
 }
 .navbar-brand{
