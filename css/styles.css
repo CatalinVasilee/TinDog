@@ -1,0 +1,38 @@
+body{
+    font-family: 'Montserrat';
+}
+#title{
+    background-color: #ff4c68;
+}
+.meet{
+    
+    font-family: 'Montserrat';
+    size: 3rem;
+    line-height: 1.5;
+    color: white;
+    padding-bottom: 12%;
+    
+}
+.nvBar{
+    /* padding top-bottom 3% left-right 15% */
+    padding: 5% 20%;
+    
+}
+.nvBar2{
+    margin-bottom:5% ;
+
+    
+}
+.doggye{
+    padding-top: 3%;
+    transform: rotate(20deg);
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.download-button{
+    margin:5% 3% 5% 0; 
+}
